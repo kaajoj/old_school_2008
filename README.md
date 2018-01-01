@@ -1,1 +1,2 @@
-# old_school_2008
+Nawet zachowało się na serwerze:
+http://rdgrid.w.interiowo.pl/index.htm
